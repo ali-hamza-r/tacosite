@@ -1,0 +1,52 @@
+.all{
+	width: 100%;
+	height: 100%;
+}
+/**debut marge*/
+.marge{
+	background-color: #556B2F;
+	width: 6cm;
+	height: 40cm;
+	margin-top: -20px;
+	color: white;
+	display: inline-block;
+	float: left;
+	clear: both;
+}
+.name1{
+    padding-left: 17px;
+
+}
+.name2{
+    padding-left: 17px;
+}
+.post{
+	
+}
+.profil{
+	width: 5cm;
+	padding-top: 15px;
+}
+.info{
+	padding-left: 17px;
+	background-color: #8FBC8F;
+}
+.langue{
+	padding-left: 17px;
+	background-color: #8FBC8F;
+}
+.informatique{
+	padding-left: 17px;
+	background-color: #8FBC8F;
+}
+/*fin marge*/
+
+/*debut centre*/
+.centre{
+	background-color: white;
+	width: 40cm;
+	height: 39.5cm;
+    margin-left: 6cm; 
+    /*display: inline-block;*/
+    width: 15cm;
+     }
